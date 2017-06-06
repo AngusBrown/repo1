@@ -1,2 +1,2 @@
 # repo1
-# various neural network functions
+# neural network files
