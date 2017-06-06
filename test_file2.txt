@@ -1,2 +1,4 @@
 second test text file
+added text
+added text2
 
